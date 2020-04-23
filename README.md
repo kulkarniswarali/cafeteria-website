@@ -6,3 +6,4 @@ Responsive website created with HTML5 , CSS and Bootstrap4.
   <li>Responsive Navbar</li>
   <li>Informative</li>
 </ul>
+<img src="images/screenshot.jpg">
