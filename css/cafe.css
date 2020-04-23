@@ -4,7 +4,7 @@ body {
 }
 
 .container-fluid{
-	background-image: url("bg.jpeg");
+	background-image: url("../images/bg.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
